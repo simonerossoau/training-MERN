@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mern-development/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mern-development/static/js/main.fae9015b.chunk.js",
-    "main.js.map": "/mern-development/static/js/main.fae9015b.chunk.js.map",
-    "runtime-main.js": "/mern-development/static/js/runtime-main.00b9cd93.js",
-    "runtime-main.js.map": "/mern-development/static/js/runtime-main.00b9cd93.js.map",
-    "static/js/2.6ead28ee.chunk.js": "/mern-development/static/js/2.6ead28ee.chunk.js",
-    "static/js/2.6ead28ee.chunk.js.map": "/mern-development/static/js/2.6ead28ee.chunk.js.map",
-    "index.html": "/mern-development/index.html",
-    "precache-manifest.27fcb4328070129309865d8a4644de85.js": "/mern-development/precache-manifest.27fcb4328070129309865d8a4644de85.js",
-    "service-worker.js": "/mern-development/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/mern-development/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6ead28ee.chunk.js.LICENSE.txt": "/mern-development/static/js/2.6ead28ee.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mern-development/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mern/static/css/main.bc19cab4.chunk.css",
+    "main.js": "/mern/static/js/main.f92228cf.chunk.js",
+    "main.js.map": "/mern/static/js/main.f92228cf.chunk.js.map",
+    "runtime-main.js": "/mern/static/js/runtime-main.b443d0aa.js",
+    "runtime-main.js.map": "/mern/static/js/runtime-main.b443d0aa.js.map",
+    "static/js/2.9419d44c.chunk.js": "/mern/static/js/2.9419d44c.chunk.js",
+    "static/js/2.9419d44c.chunk.js.map": "/mern/static/js/2.9419d44c.chunk.js.map",
+    "index.html": "/mern/index.html",
+    "precache-manifest.a60cd05a970ee9ac33f3f2672d836cb4.js": "/mern/precache-manifest.a60cd05a970ee9ac33f3f2672d836cb4.js",
+    "service-worker.js": "/mern/service-worker.js",
+    "static/css/main.bc19cab4.chunk.css.map": "/mern/static/css/main.bc19cab4.chunk.css.map",
+    "static/js/2.9419d44c.chunk.js.LICENSE.txt": "/mern/static/js/2.9419d44c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mern/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00b9cd93.js",
-    "static/js/2.6ead28ee.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fae9015b.chunk.js"
+    "static/js/runtime-main.b443d0aa.js",
+    "static/js/2.9419d44c.chunk.js",
+    "static/css/main.bc19cab4.chunk.css",
+    "static/js/main.f92228cf.chunk.js"
   ]
 }
