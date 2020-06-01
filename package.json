@@ -4,9 +4,9 @@
   "private": true,
   "description": "development, deployment and CD/CI of a fullstack MERN app",
   "author": "Simone",
-  "homepage": "http://simonerossoau.github.io/mern-development",
+  "homepage": "http://simonerossoau.github.io/mern",
   "dependencies": {
-    "@fluentui/react": "^7.117.0",
+    "@material-ui/core": "^4.0.0-rc.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
