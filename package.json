@@ -1,7 +1,6 @@
 {
   "name": "mern-exercise",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
   "description": "development, deployment and CD/CI of a fullstack MERN app",
   "author": "Simone",
   "homepage": "http://simonerossoau.github.io/mern",
